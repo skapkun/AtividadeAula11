@@ -4,9 +4,9 @@ Equipe: XTPO
 (SM)
 Scrum Master: Artur Moreno
 
-	Desenvolvedor 1:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 1: Tiago Pereira
+	Habilidades: C, java
+	Experiência: 2 anos
 	
 	Desenvolvedor 2:
 	Habilidades:
