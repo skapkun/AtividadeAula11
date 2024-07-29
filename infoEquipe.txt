@@ -1,4 +1,19 @@
 (PO)
 Product Owner: Carla Cavalcante 
 Equipe: XTPO
+(SM)
+Scrum Master: Artur Moreno
+
+	Desenvolvedor 1:
+	Habilidades:
+	Experiência:
+	
+	Desenvolvedor 2:
+	Habilidades:
+	Experiência:
+
+	Desenvolvedor 3:
+	Habilidades:
+	Experiência:
+
 Produto: AmbuHub
