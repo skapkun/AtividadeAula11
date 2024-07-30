@@ -8,9 +8,9 @@ Scrum Master: Artur Moreno
 	Habilidades: C, java
 	Experiência: 2 anos
 	
-	Desenvolvedor 2:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 2: Gustavo Rocha
+	Habilidades: C 
+	Experiência: 1 ano e meio
 
 	Desenvolvedor 3:
 	Habilidades:
