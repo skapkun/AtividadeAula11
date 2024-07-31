@@ -12,8 +12,8 @@ Scrum Master: Artur Moreno
 	Habilidades: C 
 	Experiência: 1 ano e meio
 
-	Desenvolvedor 3:
-	Habilidades:
-	Experiência:
+	Desenvolvedor 3: Juliana Guarloth
+	Habilidades: C
+	Experiência: 2 anos 
 
 Produto: AmbuHub
